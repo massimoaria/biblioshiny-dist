@@ -1,2 +1,2 @@
-# biblioshiny-dist
-Public release for Biblioshiny launcher 
+# biblioshiny-dist  
+Public release for Biblioshiny launcher     
