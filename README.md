@@ -1,6 +1,6 @@
 # Biblioshiny for Desktop (macOS and Windows)
 
-Welcome to the official distribution repository for the desktop version of Biblioshiny. This version is a standalone Electron application available for **macOS** (Apple Silicon M1/M2/M3/M4 and Intel) and **Windows x64**.
+Welcome to the official distribution repository for the desktop version of Biblioshiny. This version is a standalone Electron application available for **macOS** (Apple Silicon M1/M2/M3/M4) and **Windows x64**.
 
 ## 🚀 Key Advantages
 
@@ -15,7 +15,6 @@ Welcome to the official distribution repository for the desktop version of Bibli
 1. Navigate to the [Releases](../../releases) page
 2. Download the appropriate `.pkg` installer:
    - `Biblioshiny-5.2.1-arm64.pkg` for Apple Silicon (M1/M2/M3/M4)
-   - `Biblioshiny-5.2.1-x64.pkg` for Intel
 3. Double-click the installer and follow the macOS setup prompts
 4. Launch Biblioshiny from your Applications folder
 
